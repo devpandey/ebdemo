@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>jenkins fixed v2.0 and fixed 1 error on database !!!</h2>
+<h2>jenkins fixed and working fine for FIS Lab2.0</h2>
 </body>
 </html>
